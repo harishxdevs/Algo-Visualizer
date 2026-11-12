@@ -3,7 +3,7 @@
 Interactive, step-by-step visualisation of classic algorithms. Pick an algorithm, tune the speed,
 and watch exactly what it does, with live comparison and write counts.
 
-**Live:** _add your Vercel URL here after deploying_
+**Live:** https://algo-visualizer-phi-rose.vercel.app/
 
 ## What's inside
 
